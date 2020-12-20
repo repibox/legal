@@ -6,7 +6,7 @@ Cookies are small pieces of data, stored in text files, that are stored on your 
 
 ### **How we use cookies**
 
-We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the "like" or "follow" button on a post, for example). Many of the cookies we use are only set if you are a registered WordPress.com user (so you don’t have to log in every time, for example), while others are set whenever you visit one of our websites, irrespective of whether you have an account. For more information on the choices you have about the cookies we use, please see the Controlling Cookies section below.
+We use cookies for a number of different purposes. Some cookies are necessary for technical reasons; some enable a personalized experience for both visitors and registered users; and some allow the display of advertising from selected third party networks. Some of these cookies may be set when a page is loaded, or when a visitor takes a particular action (clicking the "like" or "follow" button on a post, for example). Many of the cookies we use are only set if you are a registered Repibox.com user (so you don’t have to log in every time, for example), while others are set whenever you visit one of our websites, irrespective of whether you have an account. For more information on the choices you have about the cookies we use, please see the Controlling Cookies section below.
 
 ### **Where we place cookies**
 
@@ -70,12 +70,9 @@ optimizelySegments|Gathers information that helps us understand how visitors int
 |_longreads_prod_new|Authentication for Repibox.com accounts. Only active when logged in.|
 |akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
 |botdlang|Used to track the language a user has selected to view popular blogs in.|
-|landingpage_currency|Defines the currency displayed in Repibox.com landing pages.|
 |pd_dashboard|Records last used folder in dashboard so it can be reopened upon user’s next visit.|
 |PD_USER_AUTH|Login cookie used to identify Repibox user.|
-|wordpress_logged_in*|Checks whether or not the current visitor is a logged in Repibox.com user.|
-|wp-settings-{user_id}|Persists a user’s configuration.|
-|wp_sharing_{id}|Tracks whether or not a user has already performed an action.|
+|logged_in*|Checks whether or not the current visitor is a logged in Repibox.com user.|
 
 #### **Security**
 
@@ -90,9 +87,8 @@ optimizelySegments|Gathers information that helps us understand how visitors int
 |country_code|Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.|
 |sensitive_pixel_option|Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.|
 |twostep_auth|Set when the user is logged in using two factor authentication.|
-|wordpress_test_cookie|Checks if cookies are enabled to provide appropriate user experience.|
 
-#### **Advertisements from Third Parties Through Automattic’s Ads Program** 
+#### **Advertisements from Third Parties Through Repibox’s Ads Program** 
 
 We operate our ads program in partnership with third party vendors. As part of the operation of our ads program, we use cookies to collect certain information. Advertising cookies enable us and our partners to serve ads and to personalize those ads based on information like visits to our sites and other sites on the Internet. Below is a representative list of our advertising program partners, along with information on the cookies that that each partner sets. The partners we work with change from time to time, and this is not an exhaustive list. Your choices to control cookies related to our ads program are described below.
 
@@ -118,11 +114,11 @@ For example, you can opt out of Google Analytics by installing [Google’s opt-
 
 ### Our Internal Analytics Tool
 
-In order to better understand how our services are used, we monitor certain user activities that take place within our products, including page views and clicks on any links used when managing a site via our dashboards. We call each one of these actions an “event.” Analytics events are attached to your WordPress.com account and are handled via a first party system that Repibox owns and maintains. In general, we record the following data for each event: IP address, Repibox.com user ID and username, user agent, referring URL, timestamp of event, browser language, and country code. We use this information to improve our products, make our marketing to you more relevant, personalize your experience, and for the other purposes described in our [Privacy Policy](https://github.com/repibox/legal/blob/master/Privacy-Policy.md). You may opt out of our analytics program through your user settings. By doing so, you won’t share information with our analytics tool about events or actions that happen after the opt-out, while logged in to your Repibox.com account. Note that opting out does not disable the functionality of the actions we track - for example, if you publish a post, we will still have record of that (don’t worry!), but for an event or action after you opt out, we will not have other data associated with that action or event in the analytics tool.
+In order to better understand how our services are used, we monitor certain user activities that take place within our products, including page views and clicks on any links used when managing a site via our dashboards. We call each one of these actions an “event.” Analytics events are attached to your Repibox.com account and are handled via a first party system that Repibox owns and maintains. In general, we record the following data for each event: IP address, Repibox.com user ID and username, user agent, referring URL, timestamp of event, browser language, and country code. We use this information to improve our products, make our marketing to you more relevant, personalize your experience, and for the other purposes described in our [Privacy Policy](https://github.com/repibox/legal/blob/master/Privacy-Policy.md). You may opt out of our analytics program through your user settings. By doing so, you won’t share information with our analytics tool about events or actions that happen after the opt-out, while logged in to your Repibox.com account. Note that opting out does not disable the functionality of the actions we track - for example, if you publish a post, we will still have record of that (don’t worry!), but for an event or action after you opt out, we will not have other data associated with that action or event in the analytics tool.
 
 ### Consent for Advertising Cookies on Our Sites
 
-You may see a “cookie banner” on our websites and dashboards. If you are visiting one of our sites from the EU, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site you are visiting and on our other websites, dashboards, and services, which we use to show you advertisements about our various Automattic products. We’ll display the banner to you periodically, just in case you change your mind.
+You may see a “cookie banner” on our websites and dashboards. If you are visiting one of our sites from the EU, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site you are visiting and on our other websites, dashboards, and services, which we use to show you advertisements about our various Repibox products. We’ll display the banner to you periodically, just in case you change your mind.
 
 ### **Consent and Choices for Advertisements on Our Users’ Sites Through Our Ads Program**
 
