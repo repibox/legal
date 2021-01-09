@@ -14,4 +14,4 @@ As noted in our license file, the content here is licensed under the [Creative C
 
 ### Footnotes and Miscellany
 
-The source of these legal documents are attributed and based off [Legalmattic source](https://github.com/Automattic/legalmattic). Genuienly appreciate everything Automattic and the Wordpress community has done for open source.
+The source of these legal documents are attributed and based off [Legalmattic source](https://github.com/Automattic/legalmattic). Genuinely appreciate everything Automattic and the Wordpress community has done for open source.
